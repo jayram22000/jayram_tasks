@@ -17,7 +17,7 @@ echo "Hello world! My name is \"David\"";
 $title1 = "PHP is interesting";
  echo "<h1>" . $title1 . "</h1>";
  ?>
-<h3> 3.5$g1=5, $g2=4, $g3=5. These are the grades for 3 students in the course. Use HTML table into echo and include 3 columns S.n., Name, and grade. Your table should look like the one below.</h3>
+<h3> 3.5 $g1=5, $g2=4, $g3=5. These are the grades for 3 students in the course. Use HTML table into echo and include 3 columns S.n., Name, and grade. Your table should look like the one below.</h3>
 <?php
 $g1 = 5;
 $g2 = 4;
