@@ -29,7 +29,10 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="ex1.php">Exercise 1</a>
-ƒ        </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="ex2.php">Exercise 2</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="aboutus.php">About Us</a>
         </li>
