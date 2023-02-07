@@ -4,8 +4,12 @@
 <footer style="background-color: rgb(65, 7, 109); color: white;">
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">© 2020 Copyright
+  <div class="footer-copyright text-center py-3">
+  <p>Last Modified: <?php echo date("F d Y H:i:s.", filemtime(basename($_SERVER['PHP_SELF']))); ?></p> 
+  <p>Copyright &copy; <?php echo date("Y"); ?></p>
+
   </div>
+  
   <!-- Copyright -->
 
 </footer></div>
