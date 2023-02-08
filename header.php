@@ -37,6 +37,9 @@
           <a class="nav-link" href="variable.php">Exercise 3</a> 
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="control.php">Exercise 4</a> 
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="aboutus.php">About Us</a>
         </li>
         <li class="nav-item">
@@ -55,6 +58,10 @@
   <div class="row" style="margin-top: 10px; margin-bottom: 10px; margin-right: 5px;">
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
       <h3>List of Tasks</h3>
-      some thing here
+      <br>1.In-class Task 31.01.2023 (ex1.php)</br>
+      <br>2.In-class Task 01.02.2023 (index.php(ex2.php))</br>
+      <br>3.In-class Task Variable & Operators 07.02.2023 (variable.php)</br>
+      <br>4.In-class Task Control flow and loops 08.02.2023 (controlflow.php)</br> 
+      <br>5. In-class Task Arrays  09.02.2023 (array.php)</br> 
     </div>
     <div class="col-sm-9">
