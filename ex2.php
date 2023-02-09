@@ -188,7 +188,7 @@ border-radius:50%;
 }
  </style>
 <div class="col-md-17">        <!-- Change the col 5 to 17 to make a image in a right corner !-->
-  <article> <image class="image-fluid  " src="logo.jng" alt = model></image></article>
+  <article> <image class="image-fluid  " src="logo.jpg" alt = model></image></article>
 </div>
 <h1> Welcome</h1>
 <h4>The first sentence of the description clearly outlines something unique about the restaurant: its passion for masa. This establishes the "traditional" component of Suerte's menu, which blends traditional Mexican cooking with local Texas ingredients. The photo beside the description further amplifies this idea, showcasing traditional Mexican art while establishing a bright, exuberant visual style for the brand. When image and text work in harmony like this, it can be extremely powerful.
