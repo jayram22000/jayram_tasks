@@ -18,4 +18,8 @@ array_values() is an inbuilt function that
 returns all the values of an array and not the keys. </h2>
 <?php
 ?>
+<h2>3.Sort the following array </h2>
+<?php
+?>
+<h2> 4.Change the following array's all values to upper case.</h2>
 <?php include "footer.php" ?>
