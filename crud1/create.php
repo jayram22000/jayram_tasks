@@ -2,8 +2,8 @@
 $title= "A simple CRUD APP";
  include "../header.php";
  ?>
-<form method="post" action="">
-    <input type="text" name="fname" placeholder="first name" required><br>
+<form method="post" action="" onsubmit="return crud()" name="form1">
+    <input type="text" name="fname" placeholder="first name" required onblur="fnameVal()" ><br>
     <input type="text" name="lname" placeholder="last name" required><br>
     <input type="text" name="city" placeholder="city" required><br>
     <select name="groupid">
